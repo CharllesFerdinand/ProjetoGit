@@ -1,0 +1,1 @@
+O projeto serve para aprender a trabalhar com o GIT
